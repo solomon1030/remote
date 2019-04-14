@@ -1,11 +1,7 @@
 #include <stdio.h>
 
-int main
+int main()
 {
-	int s;
-	scanf("%d",&s;
-	printf("%d",s);
-	
-	}
-
+	sslssl
+}
 
